@@ -1,0 +1,8 @@
+.player_body {
+    display: flex;
+}
+
+.loader {
+    margin-top: 300px;
+    margin-left: 800px;
+}
